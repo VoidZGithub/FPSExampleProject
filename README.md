@@ -1,6 +1,7 @@
 # FPSExampleProject
 
-This project unity version is 2020.3
+This project unity version is https://unity3d.com/get-unity/download/archive 2020.3
+
 
 This is my loacl change
 
