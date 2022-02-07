@@ -1,5 +1,6 @@
 # FPSExampleProject
 
+This project unity version is 2020.3
 
 This is my loacl change
 
@@ -7,6 +8,8 @@ This is a remote change
 
 
 <h1> Important things to download.</h1> 
+
+Install first: https://unity3d.com/get-unity/download (Unity hub) 
 
 - https://visualstudio.microsoft.com/ Visual Studio community 
 	- Install Tools for unity game development
